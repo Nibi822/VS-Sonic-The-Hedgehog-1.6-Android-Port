@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-74,
+				-150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "junio sonic IDLE",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				43,
+				-168
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "junio sonic LEFT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-88,
+				-150
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "junio sonic DOWN",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-3,
+				-128
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "junio sonic RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-90,
+				-121
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "junio sonic UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Junio_Sonic_Assets",
+	"position": [
+		-10,
+		70
+	],
+	"healthicon": "sonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		87,
+		125,
+		255
+	],
+	"camera_position": [
+		70,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}
