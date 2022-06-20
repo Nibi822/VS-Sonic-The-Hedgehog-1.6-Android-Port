@@ -1,0 +1,50 @@
+{
+	"storyName": "Rap against the 3 famous hedgehogs",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "rumble",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week main story",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"True-Blue",
+			"Hyper",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"New-pals",
+			"Sonic",
+			[
+				46,
+				255,
+				253
+			]
+		],
+		[
+			"unilluminated",
+			"dark",
+			[
+				26,
+				33,
+				213
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "rumble",
+	"hiddenUntilUnlocked": false
+}
