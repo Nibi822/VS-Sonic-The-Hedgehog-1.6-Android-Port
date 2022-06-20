@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Finished I Think
+name: Finished
 
 # Controls when the action will run.
 on:
