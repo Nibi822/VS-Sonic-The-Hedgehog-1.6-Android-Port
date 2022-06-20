@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DARK_ASSETS.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boxxed down0000" x="0" y="0" width="1089" height="803"/>
+	<SubTexture name="boxxed down0001" x="1089" y="0" width="1089" height="803"/>
+	<SubTexture name="boxxed down0002" x="2178" y="0" width="1089" height="803"/>
+	<SubTexture name="boxxed down0003" x="3267" y="0" width="1089" height="803"/>
+	<SubTexture name="boxxed down0004" x="4356" y="0" width="1089" height="803"/>
+	<SubTexture name="boxxed down0005" x="5445" y="0" width="1089" height="803"/>
+	<SubTexture name="boxxed down0006" x="5445" y="0" width="1089" height="803"/>
+	<SubTexture name="boxxed down0007" x="5445" y="0" width="1089" height="803"/>
+	<SubTexture name="boxxed down0008" x="5445" y="0" width="1089" height="803"/>
+	<SubTexture name="boxxed down0009" x="5445" y="0" width="1089" height="803"/>
+	<SubTexture name="boxxed down0010" x="5445" y="0" width="1089" height="803"/>
+	<SubTexture name="boxxed down0011" x="5445" y="0" width="1089" height="803"/>
+	<SubTexture name="boxxed down0012" x="5445" y="0" width="1089" height="803" frameX="107374151" frameY="107374174" frameWidth="1089" frameHeight="803"/>
+	<SubTexture name="boxxed idle animatiom0000" x="6534" y="0" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0001" x="6534" y="0" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0002" x="0" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0003" x="0" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0004" x="1088" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0005" x="1088" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0006" x="2176" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0007" x="2176" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0008" x="2176" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0009" x="3264" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0010" x="3264" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0011" x="3264" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0012" x="3264" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0013" x="3264" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0014" x="4352" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0015" x="4352" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0016" x="0" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0017" x="0" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0018" x="1088" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0019" x="2176" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0020" x="2176" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0021" x="2176" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0022" x="2176" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0023" x="3264" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0024" x="3264" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0025" x="2176" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0026" x="2176" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed idle animatiom0027" x="3264" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed left0000" x="5440" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed left0001" x="6528" y="803" width="1088" height="803"/>
+	<SubTexture name="boxxed left0002" x="0" y="1606" width="1088" height="803"/>
+	<SubTexture name="boxxed left0003" x="0" y="1606" width="1088" height="803"/>
+	<SubTexture name="boxxed left0004" x="0" y="1606" width="1088" height="803"/>
+	<SubTexture name="boxxed left0005" x="0" y="1606" width="1088" height="803"/>
+	<SubTexture name="boxxed left0006" x="0" y="1606" width="1088" height="803"/>
+	<SubTexture name="boxxed left0007" x="0" y="1606" width="1088" height="803"/>
+	<SubTexture name="boxxed left0008" x="0" y="1606" width="1088" height="803"/>
+	<SubTexture name="boxxed left0009" x="0" y="1606" width="1088" height="803"/>
+	<SubTexture name="boxxed left0010" x="0" y="1606" width="1088" height="803"/>
+	<SubTexture name="boxxed left0011" x="0" y="1606" width="1088" height="803"/>
+	<SubTexture name="boxxed left0012" x="1088" y="1606" width="1088" height="803"/>
+	<SubTexture name="boxxed left0013" x="0" y="1606" width="1088" height="803"/>
+	<SubTexture name="boxxed right0000" x="2176" y="1606" width="1089" height="803"/>
+	<SubTexture name="boxxed right0001" x="3265" y="1606" width="1089" height="803"/>
+	<SubTexture name="boxxed right0002" x="4354" y="1606" width="1089" height="803"/>
+	<SubTexture name="boxxed right0003" x="5443" y="1606" width="1089" height="803"/>
+	<SubTexture name="boxxed right0004" x="5443" y="1606" width="1089" height="803"/>
+	<SubTexture name="boxxed right0005" x="5443" y="1606" width="1089" height="803"/>
+	<SubTexture name="boxxed right0006" x="6532" y="1606" width="1089" height="803"/>
+	<SubTexture name="boxxed right0007" x="6532" y="1606" width="1089" height="803"/>
+	<SubTexture name="boxxed right0008" x="0" y="2409" width="1089" height="803"/>
+	<SubTexture name="boxxed right0009" x="0" y="2409" width="1089" height="803"/>
+	<SubTexture name="boxxed right0010" x="0" y="2409" width="1089" height="803"/>
+	<SubTexture name="boxxed right0011" x="0" y="2409" width="1089" height="803"/>
+	<SubTexture name="boxxed right0012" x="0" y="2409" width="1089" height="803"/>
+	<SubTexture name="boxxed right0013" x="0" y="2409" width="1089" height="803"/>
+	<SubTexture name="boxxed up 0000" x="1089" y="2409" width="1089" height="845"/>
+	<SubTexture name="boxxed up 0001" x="2178" y="2409" width="1089" height="803" frameX="0" frameY="0" frameWidth="1089" frameHeight="845"/>
+	<SubTexture name="boxxed up 0002" x="3267" y="2409" width="1089" height="803" frameX="0" frameY="0" frameWidth="1089" frameHeight="845"/>
+	<SubTexture name="boxxed up 0003" x="4356" y="2409" width="1089" height="803" frameX="0" frameY="0" frameWidth="1089" frameHeight="845"/>
+	<SubTexture name="boxxed up 0004" x="5445" y="2409" width="1089" height="803" frameX="0" frameY="0" frameWidth="1089" frameHeight="845"/>
+	<SubTexture name="boxxed up 0005" x="6534" y="2409" width="1089" height="803" frameX="0" frameY="0" frameWidth="1089" frameHeight="845"/>
+	<SubTexture name="boxxed up 0006" x="0" y="3254" width="1089" height="803" frameX="0" frameY="0" frameWidth="1089" frameHeight="845"/>
+	<SubTexture name="boxxed up 0007" x="1089" y="3254" width="1089" height="803" frameX="0" frameY="0" frameWidth="1089" frameHeight="845"/>
+	<SubTexture name="boxxed up 0008" x="1089" y="3254" width="1089" height="803" frameX="0" frameY="0" frameWidth="1089" frameHeight="845"/>
+	<SubTexture name="boxxed up 0009" x="1089" y="3254" width="1089" height="803" frameX="0" frameY="0" frameWidth="1089" frameHeight="845"/>
+	<SubTexture name="boxxed up 0010" x="1089" y="3254" width="1089" height="803" frameX="0" frameY="0" frameWidth="1089" frameHeight="845"/>
+	<SubTexture name="boxxed up 0011" x="1089" y="3254" width="1089" height="803" frameX="0" frameY="0" frameWidth="1089" frameHeight="845"/>
+	<SubTexture name="boxxed up 0012" x="1089" y="3254" width="1089" height="803" frameX="0" frameY="0" frameWidth="1089" frameHeight="845"/>
+</TextureAtlas>

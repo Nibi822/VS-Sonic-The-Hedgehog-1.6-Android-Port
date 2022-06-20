@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonic_down_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="A0000" x="0" y="0" width="190" height="75"/>
+	<SubTexture name="A0001" x="0" y="0" width="190" height="75"/>
+	<SubTexture name="A0002" x="190" y="0" width="190" height="75"/>
+	<SubTexture name="A0003" x="190" y="0" width="190" height="75"/>
+	<SubTexture name="A0004" x="380" y="0" width="190" height="75"/>
+	<SubTexture name="A0005" x="380" y="0" width="190" height="75"/>
+	<SubTexture name="A0006" x="570" y="0" width="190" height="75"/>
+	<SubTexture name="A0007" x="570" y="0" width="190" height="75"/>
+	<SubTexture name="A0008" x="760" y="0" width="190" height="75"/>
+	<SubTexture name="A0009" x="0" y="75" width="190" height="75"/>
+	<SubTexture name="A0010" x="0" y="75" width="190" height="75"/>
+	<SubTexture name="A0011" x="0" y="75" width="190" height="75"/>
+	<SubTexture name="A0012" x="0" y="75" width="190" height="75"/>
+	<SubTexture name="A0013" x="0" y="75" width="190" height="75"/>
+	<SubTexture name="DOWN0000" x="190" y="75" width="190" height="75"/>
+	<SubTexture name="DOWN0001" x="190" y="75" width="190" height="75"/>
+	<SubTexture name="DOWN0002" x="380" y="75" width="190" height="75"/>
+	<SubTexture name="DOWN0003" x="380" y="75" width="190" height="75"/>
+	<SubTexture name="DOWN0004" x="380" y="75" width="190" height="75"/>
+	<SubTexture name="DOWN0005" x="380" y="75" width="190" height="75"/>
+	<SubTexture name="DOWN0006" x="380" y="75" width="190" height="75"/>
+	<SubTexture name="DOWN0007" x="380" y="75" width="190" height="75"/>
+	<SubTexture name="DOWN0008" x="380" y="75" width="190" height="75"/>
+	<SubTexture name="DOWN0009" x="380" y="75" width="190" height="75"/>
+	<SubTexture name="DOWN LEFT0000" x="570" y="75" width="190" height="75"/>
+	<SubTexture name="DOWN LEFT0001" x="570" y="75" width="190" height="75"/>
+	<SubTexture name="DOWN LEFT0002" x="760" y="75" width="190" height="75"/>
+	<SubTexture name="DOWN LEFT0003" x="760" y="75" width="190" height="75"/>
+	<SubTexture name="DOWN LEFT0004" x="760" y="75" width="190" height="75"/>
+	<SubTexture name="DOWN LEFT0005" x="760" y="75" width="190" height="75"/>
+	<SubTexture name="DOWN LEFT0006" x="760" y="75" width="190" height="75"/>
+	<SubTexture name="DOWN LEFT0007" x="760" y="75" width="190" height="75"/>
+	<SubTexture name="DOWN LEFT0008" x="760" y="75" width="190" height="75"/>
+	<SubTexture name="DOWN LEFT0009" x="760" y="75" width="190" height="75"/>
+	<SubTexture name="RIGHT DOWN0000" x="0" y="150" width="190" height="75"/>
+	<SubTexture name="RIGHT DOWN0001" x="0" y="150" width="190" height="75"/>
+	<SubTexture name="RIGHT DOWN0002" x="190" y="150" width="190" height="75"/>
+	<SubTexture name="RIGHT DOWN0003" x="190" y="150" width="190" height="75"/>
+	<SubTexture name="RIGHT DOWN0004" x="190" y="150" width="190" height="75"/>
+	<SubTexture name="RIGHT DOWN0005" x="190" y="150" width="190" height="75"/>
+	<SubTexture name="RIGHT DOWN0006" x="190" y="150" width="190" height="75"/>
+	<SubTexture name="RIGHT DOWN0007" x="190" y="150" width="190" height="75"/>
+	<SubTexture name="RIGHT DOWN0008" x="190" y="150" width="190" height="75"/>
+	<SubTexture name="RIGHT DOWN0009" x="190" y="150" width="190" height="75"/>
+	<SubTexture name="RIGHT DOWN0010" x="190" y="150" width="190" height="75"/>
+	<SubTexture name="RIGHT DOWN0011" x="190" y="150" width="190" height="75"/>
+	<SubTexture name="UP10000" x="380" y="150" width="190" height="75"/>
+	<SubTexture name="UP10001" x="380" y="150" width="190" height="75"/>
+	<SubTexture name="UP10002" x="570" y="150" width="190" height="75"/>
+	<SubTexture name="UP10003" x="570" y="150" width="190" height="75"/>
+	<SubTexture name="UP10004" x="570" y="150" width="190" height="75"/>
+	<SubTexture name="UP10005" x="570" y="150" width="190" height="75"/>
+	<SubTexture name="UP10006" x="570" y="150" width="190" height="75"/>
+	<SubTexture name="UP10007" x="570" y="150" width="190" height="75"/>
+	<SubTexture name="UP10008" x="570" y="150" width="190" height="75"/>
+	<SubTexture name="UP10009" x="570" y="150" width="190" height="75"/>
+</TextureAtlas>
