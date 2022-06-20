@@ -1,0 +1,149 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "Grass Field",
+		"player1": "Bf-Lineless",
+		"player2": "Sonic",
+		"player3": null,
+		"events": [
+			[
+				16267.2413793103,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				16320.8128078818,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				16328.2019704434,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				16337.4384236453,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				16354.0640394089,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				16359.6059113301,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				16374.3842364532,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				16376.2315270936,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				16424.2610837438,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				16464.9014778325,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				16490.763546798,
+				[
+					[
+						"bgchange",
+						"space clrs",
+						"1"
+					]
+				]
+			],
+			[
+				16516.6256157636,
+				[
+					[
+						"Change Character",
+						"2",
+						"nothing"
+					]
+				]
+			],
+			[
+				16540.6403940887,
+				[
+					[
+						"Change Character",
+						"1",
+						"super sonic but cool"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "Gf-Lineless",
+		"bpm": 203,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "reach"
+	}
+}
