@@ -1,0 +1,50 @@
+{
+	"storyName": "reach for the stars",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "Colors",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"tropical-resort",
+			"sonic",
+			[
+				255,
+				115,
+				255
+			]
+		],
+                [
+			"aquarium-park",
+			"sonic",
+			[
+				255,
+				115,
+				255
+			]
+		],
+		[
+			"reach",
+			"sonic",
+			[
+				86,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Colors",
+	"hiddenUntilUnlocked": false
+}
